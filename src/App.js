@@ -1,8 +1,8 @@
 import './App.css';
-import Nav from './components/Nav'
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import Books from './pages/Books';
+import Nav from './components/Nav.jsx'
+import Footer from './components/Footer.jsx';
+import Home from './pages/Home.jsx';
+import Books from './pages/Books.jsx';
 import {books} from './data.js'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
